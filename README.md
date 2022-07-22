@@ -1,18 +1,15 @@
-O que é git?
+<strong><h1>O que é Git?</h1></strong>
 
 É uma ferramenta para realizar o controle de versiona-
 mento de códigos.
 
-Como utilizar o git?
+<strong>Como utilizar o git?</strong>
 
-O Git Bash faz parte do pacote Git for Windows, 
-que é oferecido no próprio site oficial do Git.
-
-O pacote inclui o próprio Git, o Git Bash e o Git GUI,
-uma interface gráfica para o Git.
+O Git Bash faz parte do pacote Git for Windows, que é oferecido no próprio site oficial do Git.
+O pacote inclui o próprio Git, o Git Bash e o Git GUI,uma interface gráfica para o Git.
 
 
-Comandos - Git 
+<strong>Comandos - Git</strong> 
 
 Segue abaixo os principais comandos do gitbash:
 
@@ -28,33 +25,33 @@ Segue abaixo os principais comandos do gitbash:
 9) status: mostra ouma visão geral do diretorio
 10) add: adicionar arquivos
 
-Os comandos podem ser organizados por funcionalidades, podemos os organizar por:
+<strong>Os comandos podem ser organizados por funcionalidades, podemos os organizar por:</strong>
 
-comandos de controles de acesso;
-comandos de comunicações;
-comandos de ajuda e documentação;
-comandos de gestão de arquivos e directorias;
-comandos de exibição ou impressão de arquivos;
-comandos de transferencia de arquivos;
-comandos de notícias ou redes;
-comandos de controle de processos;
-comandos de informação de estado;
-comandos de processamento de texto;
-comandos web;
+comandos de controles de acesso;<br>
+comandos de comunicações;<br>
+comandos de ajuda e documentação;<br>
+comandos de gestão de arquivos e directorias;<br>
+comandos de exibição ou impressão de arquivos;<br>
+comandos de transferencia de arquivos;<br>
+comandos de notícias ou redes;<br>
+comandos de controle de processos;<br>
+comandos de informação de estado;<br>
+comandos de processamento de texto;<br>
+comandos web;<br>
 
 
 
-O que é GitHub?
+<strong><h1>O que é GitHub?</h1></strong>
 
 O GitHub é uma plataforma que permite a hospedagem de códigos e arquivos com controle de 
 versão usando o Git onde o usuário pode contribuir em projetos privados e/ou Open Source.
 
-Funcionalidades do GitHub
+<strong>Funcionalidades do GitHub</strong>
 
-Documentação;
-Rastreamento de problemas;
-Wikis;
-Pull requests com comentário e revisão de código;
-Histórico de commits;
-GitHub Pages: pequenos websites podem ser feitos.
+Documentação;<br>
+Rastreamento de problemas;<br>
+Wikis;<br>
+Pull requests com comentário e revisão de código;<br>
+Histórico de commits;<br>
+GitHub Pages: pequenos websites podem ser feitos.<br>
 
